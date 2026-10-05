@@ -54,7 +54,8 @@ export default function HomeSections({ t }: { t: Translator }) {
             alt={t('heroVisualLabel')}
             fill
             priority
-            sizes="100vw"
+            quality={85}
+            sizes="(max-width: 767px) 300vw, (max-width: 1200px) 130vw, 100vw"
             className="object-cover object-center"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/60 to-black/35 md:bg-gradient-to-r md:from-[#07172b]/95 md:via-[#07172b]/75 md:to-black/30 rtl:md:bg-gradient-to-l rtl:md:from-[#07172b]/95 rtl:md:via-[#07172b]/75 rtl:md:to-black/30" />
@@ -224,7 +225,7 @@ export default function HomeSections({ t }: { t: Translator }) {
             src="/images/home/home-principles.jpg"
             alt=""
             fill
-            sizes="100vw"
+            sizes="(max-width: 640px) 350vw, (max-width: 1024px) 180vw, 100vw"
             className="object-cover object-center"
           />
           <div className="absolute inset-0 bg-[#f7f7f5]/85 backdrop-blur-[1px]" />
@@ -271,7 +272,8 @@ export default function HomeSections({ t }: { t: Translator }) {
               src="/images/home/home-uae-commitment.png"
               alt={t('uaeHeading')}
               fill
-              sizes="(min-width: 1024px) 600px, 100vw"
+              quality={85}
+              sizes="(min-width: 1280px) 850px, (min-width: 1024px) 65vw, 115vw"
               className="object-cover object-center"
             />
           </div>

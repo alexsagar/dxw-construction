@@ -16,7 +16,8 @@ export default function CapabilitiesContent({ t }: { t: Translator }) {
           alt={t('heroVisualLabel')}
           fill
           priority
-          sizes="100vw"
+          quality={85}
+          sizes="(max-width: 767px) 280vw, (max-width: 1200px) 120vw, 100vw"
           className="object-cover object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/60 to-black/35 md:bg-gradient-to-r md:from-[#07172b]/95 md:via-[#07172b]/75 md:to-black/30 rtl:md:bg-gradient-to-l rtl:md:from-[#07172b]/95 rtl:md:via-[#07172b]/75 rtl:md:to-black/30" />
@@ -55,7 +56,8 @@ export default function CapabilitiesContent({ t }: { t: Translator }) {
               src="/images/capabilities/capabilities-sequence.jpg"
               alt={t('sequenceHeading')}
               fill
-              sizes="(min-width: 1280px) 1200px, 100vw"
+              quality={85}
+              sizes="(min-width: 1280px) 1200px, (min-width: 768px) 92vw, 100vw"
               className="object-cover object-center"
             />
           </div>
@@ -124,7 +126,8 @@ export default function CapabilitiesContent({ t }: { t: Translator }) {
                 src="/images/capabilities/capabilities-quality-management.jpg"
                 alt={t('qualityHeading')}
                 fill
-                sizes="(min-width: 1024px) 45vw, 100vw"
+                quality={85}
+                sizes="(min-width: 1280px) 540px, (min-width: 1024px) 45vw, (min-width: 640px) 92vw, 100vw"
                 className="object-cover object-center transition-transform duration-500 hover:scale-105"
               />
             </div>

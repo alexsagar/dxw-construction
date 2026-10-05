@@ -63,7 +63,8 @@ export default function WhySection() {
                   src={pillar.image}
                   alt={t(`why.${pillar.key}.altText`)}
                   fill
-                  sizes="(min-width: 1024px) 25vw, (min-width: 640px) 50vw, 100vw"
+                  quality={85}
+                  sizes="(min-width: 1280px) 340px, (min-width: 1024px) 28vw, (min-width: 640px) 52vw, 105vw"
                   className="object-cover object-center transition-transform duration-500 group-hover:scale-105"
                 />
               </div>

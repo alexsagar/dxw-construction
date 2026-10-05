@@ -17,7 +17,8 @@ export default function AboutContent({ t }: { t: Translator }) {
             alt={t('heroVisualLabel')}
             fill
             priority
-            sizes="100vw"
+            quality={85}
+            sizes="(max-width: 767px) 300vw, (max-width: 1200px) 135vw, 100vw"
             className="object-cover object-center"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/60 to-black/35 md:bg-gradient-to-r md:from-[#07172b]/95 md:via-[#07172b]/75 md:to-black/30 rtl:md:bg-gradient-to-l rtl:md:from-[#07172b]/95 rtl:md:via-[#07172b]/75 rtl:md:to-black/30" />
