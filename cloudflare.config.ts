@@ -13,6 +13,7 @@ const responseStore = await createWorkersResponseStoreServiceBindingConfig({
 export const responseStoreServiceBinding = responseStore.serviceBindingWorker;
 
 export default defineConfig({
+  accountId: "9fcb967b7744d3455d2f35f3efd8f921",
   worker: defineWorker({
     ...responseStore.applicationWorker,
     name: "dxw-construction",
@@ -24,6 +25,7 @@ export default defineConfig({
       ...responseStore.applicationWorker.env,
       ASSETS: bindings.assets(),
       IMAGES: bindings.images(),
+      RESEND_API_KEY: bindings.secret(),
     },
   }),
 });
