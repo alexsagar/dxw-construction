@@ -1,0 +1,434 @@
+{
+  "Common": {
+    "brandName": "D X W CONSTRUCTION L.L.C.",
+    "brandLocation": "Dubai, United Arab Emirates",
+    "switchLanguage": "العربية",
+    "positioningLine": "Experienced Leadership. Disciplined Delivery.",
+    "legalLine": "D X W CONSTRUCTION L.L.C. All rights reserved."
+  },
+  "SEO": {
+    "home": {
+      "title": "DXW Construction | Construction Company in Dubai, UAE",
+      "description": "DXW Construction is a Dubai construction company focused on disciplined delivery, experienced leadership, and responsible growth in the UAE.",
+      "keywords": [
+        "DXW Construction",
+        "construction company Dubai",
+        "Dubai construction company",
+        "construction contractor Dubai",
+        "construction company UAE",
+        "UAE construction contractor"
+      ]
+    },
+    "about": {
+      "title": "About DXW Construction | Contracting & Governance in Dubai",
+      "description": "Learn about DXW Construction, a Dubai company built around experienced leadership, owner accountability and responsible long-term growth.",
+      "breadcrumb": "About DXW",
+      "keywords": [
+        "DXW Construction Dubai",
+        "construction company Dubai",
+        "construction leadership UAE",
+        "owner-led construction company",
+        "construction governance",
+        "Dubai contractor"
+      ]
+    },
+    "capabilities": {
+      "title": "Construction Capabilities | DXW Construction Dubai",
+      "description": "Explore DXW Construction capabilities across project controls, quality, HSE, procurement, logistics and disciplined construction delivery.",
+      "breadcrumb": "Capabilities",
+      "keywords": [
+        "construction management Dubai",
+        "construction capabilities Dubai",
+        "project controls UAE",
+        "construction project management",
+        "construction quality management",
+        "HSE construction Dubai",
+        "construction procurement UAE",
+        "construction logistics Dubai"
+      ]
+    },
+    "leadership": {
+      "title": "Executive Leadership | DXW Construction Dubai",
+      "description": "Meet the international leadership behind DXW Construction and the experience shaping its governance, accountability and delivery approach.",
+      "breadcrumb": "Leadership",
+      "keywords": [
+        "DXW Construction leadership",
+        "construction leadership Dubai",
+        "construction governance UAE",
+        "construction management leadership",
+        "owner-led construction company"
+      ]
+    },
+    "contact": {
+      "title": "Contact DXW Construction | Contracting Enquiries Dubai",
+      "description": "Contact DXW Construction in Dubai for construction enquiries, partnerships, procurement discussions and business opportunities in the UAE.",
+      "breadcrumb": "Contact",
+      "keywords": [
+        "DXW Construction contact",
+        "construction company Dubai contact",
+        "construction enquiry Dubai",
+        "construction contractor UAE",
+        "construction partnership Dubai"
+      ]
+    }
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "capabilities": "Capabilities",
+    "leadership": "Leadership",
+    "contact": "Contact",
+    "mainNavigation": "Main navigation",
+    "footerNavigation": "Footer navigation",
+    "navigationLabel": "Navigation",
+    "startAnEnquiry": "Start an Enquiry",
+    "openMenu": "Open navigation menu",
+    "backToTop": "Back to top"
+  },
+  "HomePage": {
+    "heroLabel": "Built on discipline",
+    "heroTitleLineOne": "Experienced Leadership.",
+    "heroTitleLineTwo": "Disciplined Delivery.",
+    "heroDescription": "A Dubai-focused construction company shaped by experienced international leadership and responsible long-term growth.",
+    "startAnEnquiry": "Start an Enquiry",
+    "secondaryCta": "Explore Our Capabilities",
+    "location": "Dubai, United Arab Emirates",
+    "heroVisualLabel": "Commercial architecture and construction engineering in the UAE",
+    "companyLabel": "Company",
+    "companyHeading": "Built for responsible growth.",
+    "companyStatement": "A new UAE construction company shaped by experienced international leadership.",
+    "companyDescription": "DXW brings together complementary business, construction, workforce and governance experience with a clear focus on accountable execution in the UAE.",
+    "exploreCompany": "Learn more about DXW Construction",
+    "capabilitiesLabel": "Delivery capabilities",
+    "capabilitiesHeading": "Areas of focus.",
+    "capabilitiesIntro": "A disciplined foundation for construction delivery, technical coordination and responsible project growth.",
+    "capability": {
+      "building": { "title": "Building & Construction", "description": "Construction delivery shaped by clear coordination and practical execution." },
+      "controls": { "title": "Project Management & Controls", "description": "Structured planning, coordination and reporting to keep delivery accountable." },
+      "quality": { "title": "Quality & HSE", "description": "Quality-minded execution and safety-conscious working practices." },
+      "procurement": { "title": "Procurement & Logistics", "description": "Coordinated materials, workforce and supply-chain thinking." }
+    },
+    "viewCapabilities": "View delivery capabilities",
+    "whyLabel": "Why DXW",
+    "whyHeading": "Clarity creates confidence.",
+    "why": {
+      "oversight": {
+        "title": "Direct oversight",
+        "description": "Shareholder-led attention to decisions, priorities and delivery.",
+        "altText": "Senior construction director reviewing structural drawings on an active building site in Dubai"
+      },
+      "leadership": {
+        "title": "Experienced leadership",
+        "description": "International experience brought together for a focused UAE platform.",
+        "altText": "Executive construction leadership team reviewing architectural drawings and models in a boardroom"
+      },
+      "accountability": {
+        "title": "Clear accountability",
+        "description": "Defined responsibility across technical, commercial and operational work.",
+        "altText": "Quality assurance site engineer inspecting structural concrete and steel framework alignment with a digital tablet"
+      },
+      "reporting": {
+        "title": "Disciplined reporting",
+        "description": "Transparent coordination and control built into the way work is managed.",
+        "altText": "Project controls engineer in site office analyzing scheduling Gantt charts and 3D BIM structural data on monitors"
+      }
+    },
+    "leadershipLabel": "Leadership",
+    "leadershipHeading": "Experience behind the company.",
+    "leadershipIntro": "DXW is shaped by people with complementary experience across business leadership, construction operations, governance and workforce strategy.",
+    "leadership": {
+      "devendra": { "name": "Devendra Bajgai", "descriptor": "Business leadership, workforce and risk" },
+      "shen": { "name": "Shen Pu", "descriptor": "Construction operations, project management and materials" },
+      "deng": { "name": "Deng Junhong", "descriptor": "Construction-company governance" },
+      "tan": { "name": "Tan Seok Hiang", "descriptor": "Workforce strategy and international relations" }
+    },
+    "meetLeadership": "Meet Our Leadership",
+    "principlesLabel": "Operating principles",
+    "principlesHeading": "Standards that guide delivery.",
+    "principle": {
+      "integrity": { "title": "Integrity", "description": "Acting with honesty and consistency in every working relationship." },
+      "safety": { "title": "Safety", "description": "Making responsible, safety-conscious decisions part of everyday delivery." },
+      "quality": { "title": "Quality", "description": "Taking pride in disciplined execution and dependable outcomes." },
+      "accountability": { "title": "Accountability", "description": "Owning decisions, communicating clearly and following through." }
+    },
+    "uaeLabel": "UAE commitment",
+    "uaeHeading": "Built for the UAE. Built for the long term.",
+    "uaeDescription": "DXW is focused on developing technical depth, accountable execution and lasting relationships with clients and partners in the UAE.",
+    "ctaLabel": "Start a conversation",
+    "ctaHeading": "Let’s build with clarity."
+  },
+  "AboutPage": {
+    "heroLabel": "ABOUT DXW",
+    "heroTitle": "Built for responsible growth.",
+    "heroDescription": "DXW Construction L.L.C. is a Dubai-focused contracting company being developed around experienced leadership, direct accountability and disciplined execution.",
+    "heroVisualLabel": "A new UAE platform",
+    "whoLabel": "Who we are",
+    "whoHeading": "A clear operating model.",
+    "whoStatement": "DXW is built around direct shareholder involvement and a management culture that values accountability, speed of decision-making and evidence-based reporting.",
+    "whoDescription": "The leadership mix connects construction delivery, commercial discipline, workforce planning, risk awareness, procurement relationships and senior owner oversight.",
+    "exploreCapabilities": "Explore Our Delivery Capabilities",
+    "storyLabel": "The DXW story",
+    "storyHeading": "A new chapter, shaped by experience.",
+    "story": {
+      "established": { "title": "2026", "description": "DXW's corporate timeline begins in Dubai as a licensed UAE construction company (Commercial License No. 1654877)." },
+      "experience": { "title": "Before DXW", "description": "The experience behind DXW spans multiple markets and disciplines across construction, workforce, business, procurement, risk and management." },
+      "nextChapter": { "title": "Next chapter", "description": "Build technical capability, systems and reputation properly through accountable UAE delivery." }
+    },
+    "visionLabel": "Vision",
+    "visionTitle": "Trusted through delivery.",
+    "visionDescription": "To become a trusted UAE construction and infrastructure partner recognised for integrity, safety, quality and dependable execution.",
+    "missionLabel": "Mission",
+    "missionTitle": "Responsible work, clearly managed.",
+    "missionDescription": "Deliver construction work through disciplined planning, qualified people, transparent commercial controls, safe site practices, quality workmanship, accountable owner-led management and long-term relationships.",
+    "growthLabel": "Growth principle",
+    "growthStatement": "Scale only where capability, cash flow, technical resources and risk controls can support the commitment.",
+    "valuesLabel": "Values",
+    "valuesHeading": "Standards that shape the work.",
+    "value": {
+      "integrity": { "title": "Integrity", "description": "Claims and commitments remain supportable and transparent." },
+      "safety": { "title": "Safety", "description": "People, property and operations come before productivity." },
+      "quality": { "title": "Quality", "description": "Approved materials, competent workmanship, inspection and records." },
+      "accountability": { "title": "Accountability", "description": "Responsibilities and follow-through have clear ownership." },
+      "performance": { "title": "Performance", "description": "Planning, cost, productivity and schedule stay connected." },
+      "respect": { "title": "Respect", "description": "Professional conduct across people, trades, clients and suppliers." },
+      "partnership": { "title": "Partnership", "description": "Share information early and resolve issues constructively." },
+      "improvement": { "title": "Continuous improvement", "description": "Use lessons, data and technology to improve delivery." }
+    },
+    "nextLabel": "Next",
+    "nextHeading": "Meet the people behind DXW.",
+    "leadershipCta": "Meet Our Leadership",
+    "contactCta": "Start an Enquiry"
+  },
+  "CapabilitiesPage": {
+    "heroLabel": "CAPABILITIES",
+    "heroTitle": "Control the work. Deliver with discipline.",
+    "heroDescription": "DXW's approach combines planning, coordination, project controls, qualified resources and accountable management.",
+    "heroVisualLabel": "Delivery framework",
+    "focusLabel": "Areas of focus",
+    "focusHeading": "A disciplined foundation for delivery.",
+    "focusStatement": "DXW is developing the construction, coordination and control capabilities needed to deliver responsibly within authorised scope and project-specific technical requirements.",
+    "capability": {
+      "construction": { "title": "Construction Delivery", "description": "Constructability planning, mobilisation, approved drawings, method statements, manpower plans, supervision, production reporting and documented handover." },
+      "controls": { "title": "Project Management & Controls", "description": "Programme planning, progress measurement, cost visibility, document control, change management and early-warning reporting." },
+      "quality": { "title": "Quality Management", "description": "Approved materials, inspection and test planning, workmanship checks, non-conformance control and close-out documentation." },
+      "hse": { "title": "Health, Safety & Environment", "description": "Risk assessment, induction, toolbox talks, PPE, competent supervision, incident reporting and emergency response." },
+      "workforce": { "title": "Workforce Coordination", "description": "Competency, mobilisation, skill matching, attendance, supervision, productivity, welfare and compliance." },
+      "procurement": { "title": "Procurement & Logistics", "description": "Approved specifications, supplier qualification, lead times, purchasing, delivery planning, inspection, traceability and storage." },
+      "digital": { "title": "Digital Construction Management", "description": "A future-facing roadmap for project controls, field reporting, document visibility, quality and HSE information." }
+    },
+    "sequenceLabel": "Delivery sequence",
+    "sequenceHeading": "Plan, mobilise, control, inspect, record, correct, hand over.",
+    "sequence": { "plan": "Plan", "mobilise": "Mobilise", "control": "Control", "inspect": "Inspect", "record": "Record", "correct": "Correct", "handover": "Hand over" },
+    "controlsLabel": "Project controls",
+    "controlsHeading": "Visibility before surprise.",
+    "controlsDescription": "A clear control framework connects programme, responsibility, procurement, cost, reporting and risk so decisions can be made early.",
+    "control": { "programme": "Programme planning", "visibility": "Progress and cash-flow visibility", "documents": "Document control", "change": "Change management", "risk": "Risk and issue tracking" },
+    "earlyWarning": "No surprise should reach the client simply because it was not reported early.",
+    "qualityLabel": "Quality management",
+    "qualityHeading": "The right work, properly recorded.",
+    "qualityStatement": "Right material. Right method. Right workmanship. Right record.",
+    "quality": { "material": "Right material", "method": "Right method", "workmanship": "Right workmanship", "record": "Right record" },
+    "safetyLabel": "Health, safety & environment",
+    "safetyHeading": "Responsible execution starts with controlled risk.",
+    "safetyStatement": "Risk assessment, task planning, induction, supervision, incident reporting and review are part of disciplined site management.",
+    "safetyPrinciple": "No schedule or productivity target justifies uncontrolled risk.",
+    "roadmapLabel": "Operating roadmap",
+    "roadmapHeading": "Building visibility as capability grows.",
+    "roadmapDescription": "DXW intends to build a digital management environment that supports accountable delivery. The focus is practical visibility, not technology for its own sake.",
+    "roadmap": { "controls": "Project controls and progress visibility", "procurement": "Procurement and delivery tracking", "workforce": "Workforce attendance and coordination", "quality": "Quality, HSE and field records" },
+    "ctaLabel": "Next step",
+    "ctaHeading": "Discuss the work ahead.",
+    "ctaButton": "Start an Enquiry"
+  },
+  "LeadershipPage": {
+    "title": "Leadership",
+    "description": "Led by experienced industry professionals committed to responsible governance and project excellence.",
+    "heroLabel": "Leadership & Governance",
+    "heroTitle": "Owner-led in strategy. Professionally managed in execution.",
+    "heroDescription": "DXW combines experienced owner-management, international operational disciplines, and direct accountability to build a dependable contracting platform in the UAE.",
+    "heroVisualLabel": "Executive governance",
+    "modelLabel": "Operating model",
+    "modelHeading": "Strategic direction at shareholder level; qualified technical authority on site.",
+    "modelStatement": "A credible contracting model separates shareholder oversight from professional site execution. The founders set strategy, ensure capital discipline, and enforce accountability; qualified project professionals control technical execution, safety, and quality.",
+    "model": {
+      "shareholder": {
+        "title": "Direct Shareholder Oversight",
+        "description": "Hands-on owners close to decisions, priorities, and escalation without corporate bureaucracy."
+      },
+      "technical": {
+        "title": "Role-Based Technical Authority",
+        "description": "Project managers, QA/QC engineers, and HSE teams hold defined authority consistent with UAE requirements."
+      },
+      "controls": {
+        "title": "Disciplined Commercial Controls",
+        "description": "Transparent cost codes, baseline schedules, document control, and early-warning reporting."
+      }
+    },
+    "profilesLabel": "Leadership profiles",
+    "profilesHeading": "Complementary experience behind the company.",
+    "profilesDescription": "Four investors from three nationalities bring decades of cross-border experience across business leadership, construction operations, project management, and workforce strategy.",
+    "profile": {
+      "devendra": {
+        "name": "Devendra Bajgai",
+        "role": "Business Leadership, Workforce Systems & Risk Discipline",
+        "origin": "Nepal / UAE Context",
+        "bio": "Nepalese business leader with more than two decades of experience across business development, project management, security/risk management, international recruitment, and corporate governance. Executive Chairman of DD Security Service and Seven Seas Intercontinental Services.",
+        "contribution": "Strategic business development, international recruitment networks, operational risk awareness, and owner-level governance."
+      },
+      "shen": {
+        "name": "Shen Pu",
+        "role": "Construction Operations, Project Management & Materials",
+        "origin": "China / Malaysia Context",
+        "bio": "Construction operations executive with more than twenty years of industry exposure spanning commercial management, real estate development, building materials supply, and construction contracting. Has operated Sinoshine Construction Company in Malaysia since 2017.",
+        "contribution": "Hands-on construction operations, project delivery management, building materials procurement, and commercial management."
+      },
+      "deng": {
+        "name": "Deng Junhong",
+        "role": "Construction-Company Governance & Directorship",
+        "origin": "China / Malaysia Context",
+        "bio": "Corporate executive with established governance exposure in construction contracting. Listed as director of Sinoshine Construction Sdn Bhd, bringing practical corporate directorship, alliance governance, and strategic oversight.",
+        "contribution": "Construction-company directorship, corporate governance, partner coordination, and operational compliance."
+      },
+      "tan": {
+        "name": "Tan Seok Hiang",
+        "role": "Workforce Strategy, International Relations & Operations",
+        "origin": "Malaysia",
+        "bio": "Malaysian business and human-resources leader with over 15 years in workforce strategy and an Executive MBA. Director of Agensi Pekerjaan HR Assist Sdn. Bhd., leading workforce solutions, international relations, and operational efficiency.",
+        "contribution": "Workforce strategy, manpower planning and mobilisation, multinational client engagement, and operating partnerships."
+      }
+    },
+    "matrixLabel": "Management strength matrix",
+    "matrixHeading": "Complementary disciplines aligned for delivery.",
+    "matrixDescription": "How distinct leadership backgrounds combine into a cohesive UAE contracting organisation.",
+    "matrix": {
+      "corporate": {
+        "title": "Business & Corporate Leadership",
+        "description": "Strategic direction, corporate governance, capital commitment, and stakeholder trust."
+      },
+      "construction": {
+        "title": "Construction Operations",
+        "description": "Practical site management, constructability review, subcontract coordination, and physical delivery."
+      },
+      "controls": {
+        "title": "Project Management & Controls",
+        "description": "Schedule baseline, cost visibility, variation control, and early-warning management."
+      },
+      "workforce": {
+        "title": "Workforce Mobilisation & Welfare",
+        "description": "Competency matching, planned mobilisation, supervision, compliance, and worker welfare."
+      },
+      "risk": {
+        "title": "Risk & Security Discipline",
+        "description": "Operational risk awareness, site security protocols, regulatory compliance, and risk registers."
+      },
+      "procurement": {
+        "title": "Procurement & Cross-Border Supply",
+        "description": "Materials sourcing, vendor qualification, logistics sequencing, and supply chain integrity."
+      }
+    },
+    "growthQuote": "Scale only where capability, cash flow, technical resources and risk controls can support the commitment.",
+    "nextLabel": "Next step",
+    "nextHeading": "Engage with our leadership team.",
+    "contactCta": "Start an Enquiry",
+    "capabilitiesCta": "Explore Capabilities"
+  },
+  "ContactPage": {
+    "title": "Contact Us",
+    "description": "Get in touch with D X W CONSTRUCTION L.L.C. in Dubai, United Arab Emirates.",
+    "heroLabel": "Contact & Engagement",
+    "heroTitle": "Direct dialogue. Clear accountability.",
+    "heroDescription": "Connect directly with DXW Construction L.L.C. in Dubai. We welcome constructive dialogue with developers, main contractors, consultants, and strategic partners.",
+    "heroVisualLabel": "Dubai, UAE",
+    "detailsLabel": "Company particulars",
+    "detailsHeading": "Operating from Dubai, UAE.",
+    "companyName": "D X W CONSTRUCTION L.L.C.",
+    "licenseLabel": "Commercial License",
+    "licenseValue": "1654877",
+    "activityLabel": "Registered Activity",
+    "activityValue": "Contracting and building works",
+    "locationLabel": "Location & Jurisdiction",
+    "locationValue": "Dubai, United Arab Emirates",
+    "inquiriesLabel": "General & Contracting Inquiries",
+    "inquiriesValue": "contact@dxwconstruction.com",
+    "hoursLabel": "Operating Hours",
+    "hoursValue": "Monday – Friday: 08:00 – 18:00 (GST)",
+    "dialogueCommitment": "Our Dialogue Commitment",
+    "commitment": {
+      "access": {
+        "title": "Direct Shareholder Access",
+        "description": "Senior decision-makers participate directly in strategic conversations and project planning."
+      },
+      "review": {
+        "title": "Technical & Scope Review",
+        "description": "Systematic evaluation of drawings, constructability, and timeline requirements."
+      },
+      "transparency": {
+        "title": "Commercial Clarity",
+        "description": "No unsupportable claims, hidden caveats, or uncontrolled project risks."
+      }
+    },
+    "formLabel": "Project enquiry",
+    "formHeading": "Initiate a contracting discussion.",
+    "formDescription": "Provide your project or enquiry details and our management team will review and respond promptly.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "e.g. Tariq Al Mansoori",
+      "company": "Company / Organisation",
+      "companyPlaceholder": "e.g. Al Wasl Developments",
+      "email": "Work Email",
+      "emailPlaceholder": "tariq@example.com",
+      "phone": "Phone / WhatsApp",
+      "phonePlaceholder": "+971 50 000 0000",
+      "enquiryType": "Enquiry Type",
+      "types": {
+        "contracting": "Construction Contracting / Building Works",
+        "procurement": "Subcontracting & Supply Chain",
+        "workforce": "Workforce & Operational Logistics",
+        "partnership": "Strategic Alliance & Joint Ventures",
+        "general": "General Corporate Enquiry"
+      },
+      "scope": "Project Location & Estimated Scope",
+      "scopePlaceholder": "e.g. Dubai South, commercial building, civil/structural works",
+      "message": "Project Details / Enquiry Message",
+      "messagePlaceholder": "Please describe the scope of works, anticipated programme, and specific requirements...",
+      "submit": "Submit Project Enquiry",
+      "submitting": "Transmitting Enquiry...",
+      "successTitle": "Enquiry Received",
+      "successMessage": "Thank you. Your enquiry has been sent successfully. Our team will get back to you soon.",
+      "submitAnother": "Send another message",
+      "errorMessage": "We couldn't send your enquiry right now. Please try again or email contact@dxwconstruction.com.",
+      "validation": {
+        "nameRequired": "Please enter your full name (minimum 2 characters).",
+        "companyRequired": "Please enter your company or organisation name.",
+        "emailInvalid": "Please enter a valid work email address.",
+        "phoneRequired": "Please enter your phone or WhatsApp number.",
+        "messageRequired": "Please describe your project details (minimum 10 characters)."
+      }
+    },
+    "sequenceLabel": "Engagement process",
+    "sequenceHeading": "How we evaluate and engage on projects.",
+    "sequence": {
+      "consultation": {
+        "step": "01",
+        "title": "Initial Consultation",
+        "description": "Understanding client objectives, timeline constraints, and procurement parameters."
+      },
+      "review": {
+        "step": "02",
+        "title": "Technical & Scope Review",
+        "description": "Thorough analysis of constructability, specifications, and site logistics."
+      },
+      "commercial": {
+        "step": "03",
+        "title": "Commercial & Resource Plan",
+        "description": "Transparent pricing, milestone mapping, and qualified workforce allocation."
+      },
+      "mobilisation": {
+        "step": "04",
+        "title": "Disciplined Mobilisation",
+        "description": "Execution under strict project controls, QA/QC standards, and safety oversight."
+      }
+    },
+    "uaeBanner": "DXW Construction L.L.C. is established for long-term participation in the UAE contracting sector. We value relationships built on performance and transparency."
+  }
+}

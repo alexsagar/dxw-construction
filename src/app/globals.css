@@ -1,26 +1,76 @@
 @import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
 
 :root {
+  --brand: #0b3d91;
+  --brand-foreground: #ffffff;
+  --accent: #d4af37;
+  --accent-foreground: #1c1c1a;
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #1c1c1a;
+  --surface: #f7f7f5;
+  --surface-muted: #eeeeea;
+  --border: #d9d9d3;
+  --muted: #eeeeea;
+  --muted-foreground: #666660;
+  --focus: #0b3d91;
+  --charcoal: #333333;
+  --font-display: var(--font-manrope), sans-serif;
+  --font-body: var(--font-inter), sans-serif;
+  --font-arabic: var(--font-noto-arabic), sans-serif;
+  --radius: 4px;
 }
 
 @theme inline {
+  --font-display: var(--font-display);
+  --font-heading: var(--font-display);
+  --font-sans: var(--font-body);
+  --color-brand: var(--brand);
+  --color-brand-foreground: var(--brand-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-border: var(--border);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-ring: var(--focus);
+  --color-primary: var(--brand);
+  --color-primary-foreground: var(--brand-foreground);
+  --color-secondary: var(--surface-muted);
+  --color-secondary-foreground: var(--foreground);
+  --color-input: var(--border);
+  --color-popover: var(--background);
+  --color-popover-foreground: var(--foreground);
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* { border-color: var(--border); }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; background: var(--background); color: var(--foreground); font-family: var(--font-body); -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+[dir="rtl"] body { font-family: var(--font-arabic); }
+h1, h2, h3, h4 { font-family: var(--font-display); font-weight: 600; letter-spacing: -0.035em; }
+[dir="rtl"] h1, [dir="rtl"] h2, [dir="rtl"] h3, [dir="rtl"] h4 { font-family: var(--font-arabic); letter-spacing: 0; line-height: 1.25; }
+button, a, input, textarea, select { font: inherit; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 3px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; } }
+@layer utilities {
+  .dxw-container { width: min(100% - 40px, 1280px); margin-inline: auto; }
+  .dxw-display { font-family: var(--font-display); font-size: clamp(3rem, 6vw, 6rem); line-height: 1; }
+  .dxw-h1 { font-size: clamp(2.5rem, 4.5vw, 4.5rem); line-height: 1.05; }
+  .dxw-h2 { font-size: clamp(2rem, 3.2vw, 3.25rem); line-height: 1.1; }
+  .dxw-h3 { font-size: clamp(1.35rem, 2vw, 1.8rem); line-height: 1.2; }
+  .dxw-reading { max-width: 720px; }
+  .section-label { display: flex; align-items: center; gap: 0.75rem; color: var(--brand); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; }
+  .section-label span { color: var(--muted-foreground); }
+  .section-label-dark span { color: rgb(255 255 255 / 0.65); }
 }
+@media (min-width: 768px) { .dxw-container { width: min(100% - 80px, 1280px); } }
+@media (min-width: 1280px) { .dxw-container { width: min(100% - 128px, 1280px); } }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
-}
+
